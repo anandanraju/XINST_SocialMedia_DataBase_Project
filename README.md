@@ -42,7 +42,7 @@ Important features like foreign key constraints, null-handling for optional medi
 Through complex queries and situation-based questions, XINST showcases its capability to handle:
 
 - User engagement tracking
-
+- 
 - Content popularity analysis
 
 - Relationship and network analysis between users
@@ -50,4 +50,5 @@ Through complex queries and situation-based questions, XINST showcases its capab
 - Performance-efficient querying
 
 This project not only serves as a strong prototype for a real-world social media backend, but also lays the foundation for expanding into future components like notifications, direct messaging, user analytics, and AI-driven content recommendations.
+
 Ultimately, XINST proves how thoughtful SQL database design can support large-scale, dynamic social media platforms in a clean, efficient, and highly relatable way.
