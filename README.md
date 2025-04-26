@@ -42,7 +42,7 @@ Important features like foreign key constraints, null-handling for optional medi
 Through complex queries and situation-based questions, XINST showcases its capability to handle:
 
 - User engagement tracking
-- 
+
 - Content popularity analysis
 
 - Relationship and network analysis between users
