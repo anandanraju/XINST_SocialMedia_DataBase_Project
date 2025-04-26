@@ -1,8 +1,8 @@
 # XINST - Social Media DataBase Project
 
-## Introduction:
-
 Welcome to XINST, a prototype SQL backend system that merges core concepts from two of the most influential social media platforms of our time — X (formerly Twitter) and Instagram .
+
+## Introduction:
 
 This project was created as a conceptual model for representing how social media data can be stored, managed, and interacted with in a relational database. XINST stands for a hybrid social platform idea that envisions the visual richness of Instagram blended with the fast-paced, text-first dynamics of X. The name itself reflects this unique combination.
 
