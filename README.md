@@ -12,7 +12,7 @@ This project was created as a conceptual model for representing how social media
 
 ![Social Media Data Connections](https://github.com/user-attachments/assets/a1dd9f9f-32dc-4fb5-9180-8c21cbda660d)
 
-Whether you're a backend developer, a database architect, or a student learning database design, this project offers a real-world inspired schema to explore and experiment with. XINST simulates key social media features such as posting photos and reels, user interactions through likes and comments, content organization with hashtags, and personal content management via bookmarks — all backed by a clean and scalable SQL database structure.
+Whether you're a backend developer, a database architect, or a student learning database design, this project offers a real-world-inspired schema to explore and experiment with. XINST simulates key social media features such as posting photos and reels, user interactions through likes and comments, content organization with hashtags, and personal content management via bookmarks — all backed by a clean and scalable SQL database structure.
 
 ----
 ## Overview:
